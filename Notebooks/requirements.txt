@@ -185,7 +185,7 @@ polars==0.19.16
 prometheus-client @ file:///C:/ci_311/prometheus_client_1679591942558/work
 prometheus-flask-exporter==0.23.0
 prompt-toolkit @ file:///C:/ci_311/prompt-toolkit_1676425940920/work
-protobuf==4.25.1
+protobuf==4.25.8
 psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py4j==0.10.9.7
