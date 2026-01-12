@@ -289,7 +289,7 @@ wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///C:/ci_311/websocket-client_1676426063281/work
 websockets==11.0.3
-Werkzeug==2.3.8
+Werkzeug==3.1.5
 widgetsnbextension==4.0.9
 win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 wordcloud==1.9.3
