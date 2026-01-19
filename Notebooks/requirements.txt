@@ -140,7 +140,7 @@ matplotlib==3.6.0
 matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
 missingno==0.5.2
 mistune @ file:///C:/ci_311/mistune_1676425111783/work
-mlflow==1.30.1
+mlflow==3.5.0
 mlxtend==0.23.0
 moto==4.2.12
 msgpack==1.0.7
