@@ -70,7 +70,7 @@ fastapi==0.105.0
 fastjsonschema @ file:///C:/ci_311/python-fastjsonschema_1679500568724/work
 feature-engine==1.6.2
 ffmpy==0.3.1
-filelock==3.13.1
+filelock==3.20.3
 Flask==2.2.3
 flask-simplelogin==0.1.2
 Flask-WTF==1.2.1
